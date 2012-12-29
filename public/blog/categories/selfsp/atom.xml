@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: selfsp | [self RJ];]]></title>
+  <link href="http://selfrj.org/blog/categories/selfsp/atom.xml" rel="self"/>
+  <link href="http://selfrj.org/"/>
+  <updated>2012-12-29T11:25:21-02:00</updated>
+  <id>http://selfrj.org/</id>
+  <author>
+    <name><![CDATA[self RJ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[iOSDevSpot]]></title>
+    <link href="http://selfrj.org/blog/iosdevspot/"/>
+    <updated>2012-12-26T08:45:00-02:00</updated>
+    <id>http://selfrj.org/blog/iosdevspot</id>
+    <content type="html"><![CDATA[<p>Com o intuito de difundir o uso da linguagem Objective-C e a utilização de ferramentas para a facilitação no desenvolvimento de aplicativos iOS surge o <a href="http://iosdevspot.com">iOSDevSpot</a>.</p>
+
+<p>No <a href="http://iosdevspot.com">iOSDevSpot</a> você encontrará screencasts em português com uma galera que saca muito sobre os mais variados assuntos relacionado ao desenvolvimento de apps iOS.</p>
+
+<p>Viu lá? Gostou da iniciativa?</p>
+
+<p>Divulgue aos amigos, pois semanalmente são lançados novos casts!</p>
+
+<p>Ah para quem tiver interesse, existe uma caneca do iOSDevSpot que pode ser adquirida <a href="http://kupz.com.br/k/3468e179e4">aqui</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

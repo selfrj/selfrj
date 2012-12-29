@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[[self RJ];]]></title>
+  <link href="http://selfrj.org/atom.xml" rel="self"/>
+  <link href="http://selfrj.org/"/>
+  <updated>2012-12-29T11:25:21-02:00</updated>
+  <id>http://selfrj.org/</id>
+  <author>
+    <name><![CDATA[self RJ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Primeiro Encontro de 2013]]></title>
+    <link href="http://selfrj.org/blog/primeiro-encontro-de-2013/"/>
+    <updated>2012-12-29T10:00:00-02:00</updated>
+    <id>http://selfrj.org/blog/primeiro-encontro-de-2013</id>
+    <content type="html"><![CDATA[<p>É com grande prazer que anunciamos o nosso primeiro encontro oficial de 2013.</p>
+
+<p>Com a colaboração do Fernando Ribeiro <a href="http://twitter.com/fer_bass">@fer_bass</a> que ajudou a fundar o grupo, e a iniciativa de Felipe Ferreira <a href="http://twitter.com/senseinerd">@senseinerd</a> decidimos organizar um encontro para 2013.</p>
+
+<p>Desta vez o mesmo não será restrito a um bate papo informal e uma boa cerveja, mas sim a um dia repleto de palestras técnicas de qualidade!</p>
+
+<h5>Palestras</h5>
+
+<p>Mas aí você pergunta: - Quem irá palestrar?</p>
+
+<p>Quem quiser fazer a sua apresentação é simples!</p>
+
+<p>Basta submeter a sua palestra no <a href="http://call4paperz.com/events/primeiro-encontro-oficial-do-self-rj-de-2013">Call4Paperz</a>.</p>
+
+<p>As palestras mais votadas, serão realizadas!</p>
+
+<p>Lembrando que pensando numa dinâmica mais agradável, as palestras devem ter no máximo 30 minutos de duração.</p>
+
+<h5>Data e Local</h5>
+
+<p>A <a href="http://caelum.com.br">Caelum</a> está apoiando o nosso evento e estará cedendo o seu espaço aqui no RJ para a realização do nosso encontro.</p>
+
+<p>Data: Sábado, 23 de fevereiro de 2013.</p>
+
+<p>Horário: 10:00 Horas</p>
+
+<p>Local: Rua do Ouvidor, 50 - Sobreloja 201 - Centro - RJ.</p>
+
+<div align="center">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Caelum+-+Ensino+e+Inova%C3%A7%C3%A3o+-+Rua+do+Ouvidor,+Rio+de+Janeiro&amp;aq=1&amp;oq=caelum+&amp;sll=-22.066441,-42.924029&amp;sspn=3.430788,5.625&amp;ie=UTF8&amp;hq=Caelum+-+Ensino+e+Inova%C3%A7%C3%A3o+-&amp;hnear=R.+do+Ouvidor+-+Centro,+Rio+de+Janeiro&amp;ll=-22.902419,-43.176078&amp;spn=0.006977,0.010986&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1925288491709492998&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=Caelum+-+Ensino+e+Inova%C3%A7%C3%A3o+-+Rua+do+Ouvidor,+Rio+de+Janeiro&amp;aq=1&amp;oq=caelum+&amp;sll=-22.066441,-42.924029&amp;sspn=3.430788,5.625&amp;ie=UTF8&amp;hq=Caelum+-+Ensino+e+Inova%C3%A7%C3%A3o+-&amp;hnear=R.+do+Ouvidor+-+Centro,+Rio+de+Janeiro&amp;ll=-22.902419,-43.176078&amp;spn=0.006977,0.010986&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1925288491709492998" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+</div>
+
+
+<h5>Brindes</h5>
+
+<p>A <a href="http://casadocodigo.com.br">Casa do Código</a> presenteará todos os participantes do encontro com um cupom desconto de 10% na compra de qualquer livro pelo site.</p>
+
+<h5>Parceiros</h5>
+
+<p>Para este encontro contamos com bons parceiros, e desde já agradecemos a todos que estão apoiando e ajudando na realização do evento, e esperamos que estas parcerias se perdurem.</p>
+
+<div align="center">
+<a href="http://caelum.com.br"><img align=middle src="https://dl.dropbox.com/u/54482067/self%20RJ/Parcerias/caelum.png" alt="Caelum" border=0 hspace=3 vspace=3></a> <a href="http://casadocodigo.com.br"><img align=middle src="https://dl.dropbox.com/u/54482067/self%20RJ/Parcerias/casadocodigo.png" alt="Casa do Código" border=0 hspace=3 vspace=3&gr></a> <a href="http://inovelabs.com"><img align=middle src="https://dl.dropbox.com/u/54482067/self%20RJ/Parcerias/inovelabs.jpg" alt="Inove Labs" border=0 hspace=3 vspace=3></a><a href="http://poisonlabs.com"><img align=middle src="https://dl.dropbox.com/u/54482067/self%20RJ/Parcerias/poisonlabs.jpg" alt="Poison Labs" border=0 hspace=3 vspace=3&gr></a>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iOSDevSpot]]></title>
+    <link href="http://selfrj.org/blog/iosdevspot/"/>
+    <updated>2012-12-26T08:45:00-02:00</updated>
+    <id>http://selfrj.org/blog/iosdevspot</id>
+    <content type="html"><![CDATA[<p>Com o intuito de difundir o uso da linguagem Objective-C e a utilização de ferramentas para a facilitação no desenvolvimento de aplicativos iOS surge o <a href="http://iosdevspot.com">iOSDevSpot</a>.</p>
+
+<p>No <a href="http://iosdevspot.com">iOSDevSpot</a> você encontrará screencasts em português com uma galera que saca muito sobre os mais variados assuntos relacionado ao desenvolvimento de apps iOS.</p>
+
+<p>Viu lá? Gostou da iniciativa?</p>
+
+<p>Divulgue aos amigos, pois semanalmente são lançados novos casts!</p>
+
+<p>Ah para quem tiver interesse, existe uma caneca do iOSDevSpot que pode ser adquirida <a href="http://kupz.com.br/k/3468e179e4">aqui</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://selfrj.org/blog/hello-world/"/>
+    <updated>2012-12-20T08:30:00-02:00</updated>
+    <id>http://selfrj.org/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>NSLog (@&#8221;Hello, self RJ!&#8221;);</p>
+
+<p>E aí galera, este é o primeiro post para brindar o lançamento do nosso site.</p>
+
+<p>Por aqui, vocês ficarão sabendo de todas as atividades do <strong>self RJ</strong> e de tudo que rola no mundo sobre a linguagem Objective-C.</p>
+]]></content>
+  </entry>
+  
+</feed>
