@@ -93,7 +93,7 @@ disqus_short_name: selfrj
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-37302183-1
+google_analytics_tracking_id: 'UA-37302183-1'
 
 # Facebook Like
 facebook_like: true
